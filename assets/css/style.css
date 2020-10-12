@@ -3,3 +3,16 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.main-title{
+    text-align:center;
+    font-size: 100px;
+    color:white;
+    margin:auto;
+}
+
+#first-line{
+    text-align: center;
+    font-size: 30px;
+    color:black
+}
