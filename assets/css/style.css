@@ -14,5 +14,22 @@ body{
 #first-line{
     text-align: center;
     font-size: 30px;
-    color:black
+    color:black;
+    opacity:0.5;
+    background-color: white; 
+    width:40%;
+    margin: auto;
+}
+
+.checklist{
+     text-align: center;
+    /* float:right; */
+    margin:auto;
+    font-size:25px;
+    /* backgroud of checklist changes color as it is clicked
+    add an onlclick function  */
+    color:white;
+}
+.through{
+
 }
