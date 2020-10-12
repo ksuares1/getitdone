@@ -1,5 +1,5 @@
-.picture{
-    background: url("img/headspace-declutter.jpg");
-    background-repeat: no repeat;
+body{
+    background: url("../img/headspace-declutter.jpg");
+    background-repeat: no-repeat;
     background-size: cover;
 }
