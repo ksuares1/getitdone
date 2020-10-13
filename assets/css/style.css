@@ -23,13 +23,11 @@ body{
 
 .checklist{
      text-align: center;
+     display: inline;
     /* float:right; */
     margin:auto;
     font-size:25px;
     /* backgroud of checklist changes color as it is clicked
     add an onlclick function  */
     color:white;
-}
-.through{
-
 }
