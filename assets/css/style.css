@@ -31,3 +31,7 @@ body{
     add an onlclick function  */
     color:white;
 }
+
+.second-page{
+    background-image: url("../img/office-space.jpg")
+}
